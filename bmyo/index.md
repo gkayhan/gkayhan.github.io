@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Java
+title: BMYO
 ---
 
 #  Ders Materyalleri

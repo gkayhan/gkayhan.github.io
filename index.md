@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dershane
+title: Yrd. Doç.Dr. Gökhan KAYHAN
 ---
 
 #   Dersler
@@ -10,4 +10,4 @@ title: Dershane
 **Sürekli güncellenen bu sayfaları düzenli olarak ziyaret etmek ve ders
 notlarının en güncel sürümlerini edinmekle sorumlusunuz.**
 
-TODO gkayhan
+

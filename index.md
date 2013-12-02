@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yrd. Doç.Dr. Gökhan KAYHAN
+title: Yrd.Doç.Dr.Gökhan KAYHAN
 ---
 
 #   Dersler

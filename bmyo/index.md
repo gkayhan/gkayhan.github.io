@@ -5,8 +5,8 @@ title: BMYO
 
 #  Ders Materyalleri
 
-Ofis yazılımları dersi final ödevi için
-[tıklayınız](https://docs.google.com/a/bil.omu.edu.tr/uc?authuser=0&id=0B5WGtCyvaTupWlBJZGVVRFRISnM&export=download)
+Ofis yazılımları dersi BÜTÜNLEME ödevi için
+[tıklayınız](https://mega.co.nz/#!jFEF2DbY!PRovt1xmdi_uj1pljKcwz3qU8Fc4wtkggmavEKTLReY)
 
 
 Grafik Animasyon dersi BÜTÜNLEME ödevi için
